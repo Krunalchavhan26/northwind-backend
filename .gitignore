@@ -1,0 +1,19 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Build
+target/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+application.properties
